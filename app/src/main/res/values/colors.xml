@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0066</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBtnToDetail">#FF0066</color>
+
+    <color name="colorSimplePinkBtnPressed">#424242</color>
+    <color name="colorSimplePinkBtnRelease">#FF0066</color>
+
+    <color name="colorFbShareOptDialogTvPressed">#FFD5E5</color>
+    <color name="colorFeedbackShareOptDialogTvPressed">#FFD5E5</color>
+
+    <color name="colorCustomToastAlertBg">#424242</color>
+
+    <color name="colorTenPercentGray">#e6e6e6ff</color><!-- 10% gray -->
+    <color name="colorSevenHalfGray">#ecececff</color><!-- 7.5% gray -->
+
+
+</resources>

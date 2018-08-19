@@ -1,0 +1,17 @@
+{
+  "activity_name_main": "အမျိုးအစားများ",
+  "fb_shareopt_dlg_title": "Facebook တွင်မျှဝေရန်",
+  "fb_shareopt_dlg_opt1": "သူငယ်ချင်းများနှင့်မျှဝေမည်။\n(အမေးနှင့်အဖြေ)",
+  "fb_shareopt_dlg_opt2": "သူငယ်ချင်းများအားဉာဏ်စမ်းမည်။(မေးခွန်း)",
+  "fb_shareopt_dlg_opt3": "application ကိုသာမျှဝေမည်။",
+  "fb_shareresult_error_alert_txt": "မြောက်ပါသဖြင့်နောင်တစ်ကြိမ်ပြန်လည်ကြိုစားကြည့်ပါ။",
+  "feedback_dlog_title": "အသိပေးရန်",
+  "feedback_dlg_opt1": "ယခုအမေး‌အဖြေနှင့်ပက်သက်၍အသိပေးမည်။",
+  "feedback_dlg_opt2": "မိမိ၏အမေးနှင့်အဖြေကိုပေါင်းထည့်‌ပေးနိုင်ရန်အသိပေးမည်။ ",
+  "feedback_dlg_opt3": "အခြားအသိပေးချက်။",
+  "feedback_mail_subject_template": "Application နှင့်ပက်သက်သောအသိပေးချက်။",
+  "feedback_mail_to_template": "သို့/applicationရေးသားသူ\n\n",
+  "feedback_mail_body_template_opt1": "အောက်ပါအမေးအဖြေနှင့်ပက်သက်သောမှားယွင်းနေမှုကို‌အသိပေးလိုပါသည်။\n\n",
+  "feedback_mail_body_template_opt2": "အောက်ပါအမေးနှင့်‌အဖြေအားအသစ်ထက်မံထွက်ရှိမည့်applicationတွင်ထည့်သွင်းနိုင်ရန်ပေးပို့ပါသည်။\n\n",
+  "feedback_mail_body_template_opt3": "အောက်ပါအကြောင်းအရာအားအသိပေးလိုပါသည်။\n\n"
+}

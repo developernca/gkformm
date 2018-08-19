@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- activity_splash_screen -->
+    <item name="idIvAppLogo" type="id" />
+    <item name="idIvDeveloperLogo" type="id" />
+    <item name="idRgFontChoose" type="id" />
+    <item name="idRdoBtnZg" type="id" />
+    <item name="idRdoBtnUc" type="id" />
+    <!-- ads -->
+    <item name="idAdvMainActivity" type="id" />
+    <item name="idAdvDetailActivity" type="id" />
+    <!-- fragments -->
+    <item name="idContainerMainFragment" type="id" />
+    <item name="idContainerDetailFragment" type="id" />
+    <!-- recycler views-->
+    <item name="idRclViewCategory" type="id" />
+    <item name="idRclViewDetails" type="id" />
+    <!-- category card view -->
+    <item name="idRlCategoryContainer" type="id" />
+    <item name="idTvCategoryName" type="id" />
+    <item name="idBtnToDetail" type="id" />
+    <!-- category detail view -->
+    <item name="idTvQMark" type="id" />
+    <item name="idTvAnsMark" type="id" />
+    <item name="idTvQuestion" type="id" />
+    <item name="idTvAnswer" type="id" />
+    <item name="idBtnFbShare" type="id" />
+    <item name="idBtnFeedBack" type="id" />
+    <!-- FB Share opts dialog -->
+    <item name="idTvFbShareOptDlgTitle" type="id" />
+    <item name="idTvFbShareOptDlgOpt1" type="id" />
+    <item name="idTvFbShareOptDlgOpt2" type="id" />
+    <item name="idTvFbShareOptDlgOpt3" type="id" />
+    <!-- Feedback Share opts dialog -->
+    <item name="idTvFeedbackOptDlgTitle" type="id" />
+    <item name="idTvFeedbackOptDlgOpt1" type="id" />
+    <item name="idTvFeedbackOptDlgOpt2" type="id" />
+    <item name="idTvFeedbackOptDlgOpt3" type="id" />
+    <!-- custom toast -->
+    <item name="idTvAlertToastText" type="id" />
+    <!-- Common buttons -->
+    <item name="idBtnSimpleDlgCloseX" type="id" />
+</resources>

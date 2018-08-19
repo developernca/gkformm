@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+        <!-- Q mark -->
+        <TextView
+            android:id="@id/idTvQMark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:padding="4dp"
+            android:text="Q :"
+            android:textSize="18sp" />
+
+        <!-- A mark-->
+        <TextView
+            android:id="@id/idTvAnsMark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@id/idTvQuestion"
+            android:padding="4dp"
+            android:text="A :"
+            android:textSize="18sp" />
+
+        <!-- Question -->
+        <TextView
+            android:id="@id/idTvQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/idTvQMark"
+            android:padding="4dp"
+            android:text="Hello Question!!!"
+            android:textSize="18sp" />
+
+        <!-- Answer -->
+        <TextView
+            android:id="@id/idTvAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/idTvQuestion"
+            android:layout_toEndOf="@id/idTvAnsMark"
+            android:padding="4dp"
+            android:text="Hello answer!!!!"
+            android:textSize="18sp" />
+
+        <!-- Facebook share button -->
+        <ImageButton
+            android:id="@id/idBtnFbShare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@id/idTvAnsMark"
+            android:layout_below="@id/idTvAnswer"
+            android:layout_marginTop="7dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/fb_share_btn" />
+
+        <!-- Feedback button -->
+        <ImageButton
+            android:id="@id/idBtnFeedBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/idTvAnswer"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="7dp"
+            android:layout_toEndOf="@id/idBtnFbShare"
+            android:background="@android:color/transparent"
+            android:src="@drawable/feedback_btn" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

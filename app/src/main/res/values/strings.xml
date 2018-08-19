@@ -1,0 +1,25 @@
+<resources>
+    <!-- app name-->
+    <string name="app_name">GK Myanmar</string>
+    <!-- ads -->
+    <string name="admob_sample_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="adunit_sample_main_activity">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="admob_app_id">ca-app-pub-3549285076791820~3371031273</string>
+    <string name="adunit_main_activity">ca-app-pub-3549285076791820/5969274451</string>
+    <string name="adunit_detail_activity">ca-app-pub-3549285076791820/7964882409</string>
+
+    <!-- Radio groups and buttons -->
+    <string name="rdo_choose_zg">ေဇာ္ဂ်ီျဖင့္သံုးမည္။</string>
+    <string name="rdo_choose_uc">ယူနီကုဒ်ဖြင့်သုံးမည်။</string>
+
+    <!-- Buttons  -->
+    <string name="str_btn_todetail">>></string>
+    <!-- dialogs -->
+    <string name="str_simple_dlg_close_sign">X</string>
+
+    <!-- facebook -->
+    <string name="facebook_app_id">222326631777507</string>
+
+
+</resources>
